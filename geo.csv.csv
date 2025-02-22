@@ -1,0 +1,41 @@
+"_id","_ignored","_index","_score",address,"alcohol_served","avg_rating",cuisine,"delivery_available",geo,id,"outdoor_seating","phone_number","price_range","rating_count","restaurant_name",timing,"vegetarian_friendly"
+5,"-",geo,1,"Delights Hub, Besant Nagar, Chennai",Yes,"4.1",Mexican,Yes,"POINT (80.189 13.045)",5,No,"044-34567890",Expensive,450,"Delights Hub","12:00 PM - 12:00 AM",Yes
+7,"-",geo,1,"Bistro Nest, Nungambakkam, Chennai",Yes,"4.3",Continental,No,"POINT (80.254 13.087)",7,Yes,"044-67890123",Expensive,180,"Bistro Nest","11:00 AM - 11:00 PM",No
+13,"-",geo,1,"Plate Den, Chromepet, Chennai",No,"4.1",Andhra,Yes,"POINT (80.247 13.041)",13,No,"044-23450987",Budget,230,"Plate Den","10:00 AM - 10:00 PM",Yes
+22,"-",geo,1,"Bistro Corner, Kodambakkam, Chennai",No,"3.7",Chinese,Yes,"POINT (80.187 13.088)",22,No,"044-54321098",Budget,140,"Bistro Corner","12:00 PM - 12:00 AM",No
+24,"-",geo,1,"Diner Garden, Guindy, Chennai",No,4,Biryani,Yes,"POINT (80.269 13.061)",24,No,"044-32109876","Mid-range",250,"Diner Garden","11:00 AM - 11:00 PM",No
+26,"-",geo,1,"Grill Spot, Tambaram, Chennai",No,"3.8","North Indian",Yes,"POINT (80.241 13.077)",26,No,"044-10987654",Budget,110,"Grill Spot","10:00 AM - 10:00 PM",Yes
+2,"-",geo,1,"Taste House, Anna Nagar, Chennai",Yes,"3.8",Chinese,No,"POINT (80.198 13.078)",2,Yes,"044-87654321",Expensive,200,"Taste House","12:00 PM - 12:00 AM",No
+3,"-",geo,1,"Flavors Spot, Mylapore, Chennai",Yes,"4.5",Italian,Yes,"POINT (80.215 13.092)",3,Yes,"044-45678912","Mid-range",320,"Flavors Spot","10:00 AM - 10:00 PM",Yes
+4,"-",geo,1,"Aromas Corner, Adyar, Chennai",No,"3.9",Biryani,No,"POINT (80.267 13.067)",4,No,"044-23456789",Budget,85,"Aromas Corner","11:00 AM - 11:00 PM",No
+10,"-",geo,1,"Eatery Barn, Guindy, Chennai",No,4,Seafood,Yes,"POINT (80.261 13.049)",10,No,"044-90123456","Mid-range",120,"Eatery Barn","10:00 AM - 10:00 PM",No
+12,"-",geo,1,"Oven Terrace, Tambaram, Chennai",Yes,"3.9",Thai,No,"POINT (80.192 13.098)",12,Yes,"044-12345098",Expensive,160,"Oven Terrace","12:00 PM - 12:00 AM",Yes
+14,"-",geo,1,"Bowl Palace, Porur, Chennai",No,"4.3",Kerala,Yes,"POINT (80.276 13.085)",14,No,"044-34509876","Mid-range",340,"Bowl Palace","11:00 AM - 11:00 PM",Yes
+15,"-",geo,1,"Fork of Chennai, T. Nagar, Chennai",No,"3.8",Punjabi,No,"POINT (80.183 13.059)",15,Yes,"044-45098765",Budget,95,"Fork of Chennai","12:00 PM - 12:00 AM",Yes
+19,"-",geo,1,"Aromas Shack, Besant Nagar, Chennai",Yes,"4.1",Lebanese,Yes,"POINT (80.239 13.052)",19,Yes,"044-87654321",Expensive,130,"Aromas Shack","12:00 PM - 12:00 AM",Yes
+20,"-",geo,1,"Delights Barn, Velachery, Chennai",Yes,"3.9",American,No,"POINT (80.174 13.069)",20,No,"044-76543210","Mid-range",210,"Delights Barn","10:00 AM - 10:00 PM",No
+21,"-",geo,1,"Kitchen of Chennai, Nungambakkam, Chennai",No,"4.5","South Indian",Yes,"POINT (80.263 13.115)",21,Yes,"044-65432109","Mid-range",380,"Kitchen of Chennai","11:00 AM - 11:00 PM",Yes
+23,"-",geo,1,"Cafe Terrace, Royapettah, Chennai",Yes,"4.3",Italian,No,"POINT (80.224 13.043)",23,Yes,"044-43210987",Expensive,300,"Cafe Terrace","10:00 AM - 10:00 PM",Yes
+28,"-",geo,1,"Plate Nest, Porur, Chennai",No,"3.6","Fast Food",Yes,"POINT (80.255 13.048)",28,No,"044-98765432",Budget,70,"Plate Nest","12:00 PM - 12:00 AM",Yes
+30,"-",geo,1,"Fork Corner, Anna Nagar, Chennai",No,"4.1",Seafood,Yes,"POINT (80.227 13.109)",30,No,"044-76543210","Mid-range",220,"Fork Corner","11:00 AM - 11:00 PM",No
+34,"-",geo,1,"Aromas Inn, Velachery, Chennai",No,4,Kerala,Yes,"POINT (80.199 13.057)",34,Yes,"044-32109876","Mid-range",190,"Aromas Inn","12:00 PM - 12:00 AM",Yes
+39,"-",geo,1,"Diner Hub, Egmore, Chennai",Yes,4,Lebanese,Yes,"POINT (80.248 13.068)",39,No,"044-87654321",Expensive,200,"Diner Hub","11:00 AM - 11:00 PM",Yes
+40,"-",geo,1,"Eatery Palace, Tambaram, Chennai",Yes,"3.9",American,Yes,"POINT (80.193 13.086)",40,Yes,"044-76543210","Mid-range",140,"Eatery Palace","12:00 PM - 12:00 AM",No
+1,"-",geo,1,"Spice Garden, T. Nagar, Chennai",No,"4.2","South Indian",Yes,"POINT (80.242 13.056)",1,No,"044-12345678","Mid-range",150,"Spice Garden","11:00 AM - 11:00 PM",Yes
+6,"-",geo,1,"Kitchen Lounge, Velachery, Chennai",No,4,"North Indian",Yes,"POINT (80.223 13.101)",6,Yes,"044-56789012","Mid-range",275,"Kitchen Lounge","10:00 AM - 10:00 PM",Yes
+8,"-",geo,1,"Cafe Shack, Kodambakkam, Chennai",No,"3.7","Fast Food",Yes,"POINT (80.178 13.063)",8,No,"044-78901234",Budget,90,"Cafe Shack","12:00 PM - 12:00 AM",Yes
+9,"-",geo,1,"Diner Pavilion, Royapettah, Chennai",Yes,"4.4",Japanese,No,"POINT (80.235 13.112)",9,Yes,"044-89012345",Expensive,310,"Diner Pavilion","11:00 AM - 11:00 PM",No
+11,"-",geo,1,"Grill Inn, Egmore, Chennai",No,"4.6",Chettinad,Yes,"POINT (80.209 13.073)",11,Yes,"044-01234567","Mid-range",500,"Grill Inn","11:00 AM - 11:00 PM",Yes
+16,"-",geo,1,"Spice Nest, Anna Nagar, Chennai",Yes,"4.2",Bengali,Yes,"POINT (80.221 13.107)",16,No,"044-50987654","Mid-range",260,"Spice Nest","11:00 AM - 11:00 PM",No
+17,"-",geo,1,"Taste Pavilion, Mylapore, Chennai",No,4,Gujarati,Yes,"POINT (80.258 13.076)",17,No,"044-09876543",Budget,175,"Taste Pavilion","10:00 AM - 10:00 PM",Yes
+18,"-",geo,1,"Flavors Inn, Adyar, Chennai",No,"4.4",Rajasthani,No,"POINT (80.201 13.094)",18,Yes,"044-98765432","Mid-range",290,"Flavors Inn","11:00 AM - 11:00 PM",Yes
+25,"-",geo,1,"Eatery Lounge, Egmore, Chennai",Yes,"4.2",Mexican,No,"POINT (80.196 13.103)",25,Yes,"044-21098765",Expensive,190,"Eatery Lounge","12:00 PM - 12:00 AM",Yes
+27,"-",geo,1,"Oven Hub, Chromepet, Chennai",Yes,"4.4",Continental,Yes,"POINT (80.212 13.095)",27,Yes,"044-09876543","Mid-range",330,"Oven Hub","11:00 AM - 11:00 PM",No
+29,"-",geo,1,"Bowl House, T. Nagar, Chennai",Yes,"4.5",Japanese,No,"POINT (80.179 13.082)",29,Yes,"044-87654321",Expensive,400,"Bowl House","10:00 AM - 10:00 PM",No
+31,"-",geo,1,"Spice Terrace, Mylapore, Chennai",No,"4.3",Chettinad,Yes,"POINT (80.264 13.066)",31,Yes,"044-65432109","Mid-range",280,"Spice Terrace","12:00 PM - 12:00 AM",Yes
+32,"-",geo,1,"Taste Den, Adyar, Chennai",Yes,"3.9",Thai,No,"POINT (80.188 13.044)",32,No,"044-54321098",Expensive,150,"Taste Den","10:00 AM - 10:00 PM",Yes
+33,"-",geo,1,"Flavors Barn, Besant Nagar, Chennai",No,"4.2",Andhra,Yes,"POINT (80.243 13.091)",33,No,"044-43210987",Budget,240,"Flavors Barn","11:00 AM - 11:00 PM",Yes
+35,"-",geo,1,"Delights Spot, Nungambakkam, Chennai",No,"3.8",Punjabi,No,"POINT (80.226 13.104)",35,No,"044-21098765",Budget,130,"Delights Spot","10:00 AM - 10:00 PM",Yes
+36,"-",geo,1,"Kitchen Garden, Kodambakkam, Chennai",Yes,"4.4",Bengali,Yes,"POINT (80.26 13.079)",36,Yes,"044-10987654","Mid-range",310,"Kitchen Garden","11:00 AM - 11:00 PM",No
+37,"-",geo,1,"Bistro Shack, Royapettah, Chennai",No,"4.1",Gujarati,Yes,"POINT (80.175 13.046)",37,No,"044-09876543",Budget,160,"Bistro Shack","12:00 PM - 12:00 AM",Yes
+38,"-",geo,1,"Cafe Lounge, Guindy, Chennai",No,"4.3",Rajasthani,No,"POINT (80.219 13.113)",38,Yes,"044-98765432","Mid-range",270,"Cafe Lounge","10:00 AM - 10:00 PM",Yes
