@@ -1,0 +1,25 @@
+{
+  "buffer": 0,
+  "grid_precision": 0,
+  "exact_bounds": true,
+  "extent": 4096,
+  "query": {
+    "bool": {
+      "filter": [
+        {
+          "exists": {
+            "field": "geo"
+          }
+        }
+      ],
+      "must": [],
+      "must_not": [],
+      "should": []
+    }
+  },
+  "runtime_mappings": {},
+  "track_total_hits": 10001,
+  "size": 10000,
+  "with_labels": false,
+  "fields": []
+}
